@@ -70,7 +70,7 @@
 
 ## Stargazers
 
-[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=techlord05&repo=devheart1&theme=algolia)](https://github.com/techlord05/techlord05/stargazers)
+[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=techlord05&repo=techlord05&theme=algolia)](https://github.com/techlord05/techlord05/stargazers)
 
 Click [here](https://github.com/techlord05/techlord05) to give me a star ⭐ if you like 😁
 
