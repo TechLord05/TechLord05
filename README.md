@@ -68,6 +68,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techlord05&theme=algolia" alt="techlord05" />
 </p>
 
+#### This what I am currently listening to on Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ykhnv377chgieaafqozwmzgd2e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/track/4DqHSMYqhTxwIGDbyjP3tp?si=a5ad2c10abca45e3)
+
 <p align="left">
    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=techlord05&layout=compact&langs_count=8&theme=algolia" alt="techlord" />
 </p>
