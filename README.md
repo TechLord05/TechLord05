@@ -79,6 +79,6 @@
 
 [![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=techlord05&repo=techlord05&theme=algolia)](https://github.com/techlord05/techlord05/stargazers)
 
-Click [here](https://github.com/techlord05/techlord05) to give me a star ⭐ if you like 😁
+Leave a ⭐ from [here](https://github.com/techlord05/techlord05) if you like 😁
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=techlord05&theme=high-contrast&height=250&custom_title=My%20Contribution%20Graph" alt="GitHub Activity Graph">
